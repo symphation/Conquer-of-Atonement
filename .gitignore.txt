@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+~/Conquer of Atonement1/[Ll]ibrary/
+~/Conquer of Atonement1/[Tt]emp/
+~/Conquer of Atonement1/[Oo]bj/
+~/Conquer of Atonement1/[Bb]uild/
+~/Conquer of Atonement1/[Bb]uilds/
+~/Conquer of Atonement1/[Ll]ogs/
+~/Conquer of Atonement1/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
