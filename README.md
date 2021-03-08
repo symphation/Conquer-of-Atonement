@@ -1,2 +1,1 @@
-# Conquer-of-Atonement
-Unity3D game for ITEC 4860-01
+# Conquer-of-Atonement-4860-01
